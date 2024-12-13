@@ -20,7 +20,7 @@ Este proyecto contiene las siguientes herramientas y bibliotecas:
    - Para mostrar indicadores de carga mientras se realiza una solicitud.
 
 Esta aplicación se ejecuta mediante el siguiente comando:
-```javascript
+```bash
 node TMBD_CLI.js [option] [argumento]
 ```
 
