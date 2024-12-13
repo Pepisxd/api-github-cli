@@ -5,7 +5,7 @@ Este proyecto contiene las siguientes herramientas y bibliotecas
    -Plataforma necesaria para ejecutar javascript en el servidor y poder construir la aplicación CLI.
 
 2. Axios
-   -Para realizar solicitudes HTTP a la API de TMDB.
+   - Para realizar solicitudes HTTP a la API de TMDB.
 
 3. Commander
    - Para manejar y parsear argumentos en la línea de comandos.
@@ -14,7 +14,7 @@ Este proyecto contiene las siguientes herramientas y bibliotecas
    - Biblioteca para agregar colores y estilo a la salida de la terminal, haciendo que el CLI sea más legible.
 
 5. Dotenv
-   -Para manejar las claves de la API de forma segura almacenandolas en un archivo .env.
+   - Para manejar las claves de la API de forma segura almacenandolas en un archivo .env.
 
 6. Ora:
    -Para mostrar indicadores de carga mientras se realiza una solicitud.
