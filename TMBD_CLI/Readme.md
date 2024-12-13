@@ -17,7 +17,7 @@ Este proyecto contiene las siguientes herramientas y bibliotecas
    - Para manejar las claves de la API de forma segura almacenandolas en un archivo .env.
 
 6. Ora:
-   -Para mostrar indicadores de carga mientras se realiza una solicitud.
+   - Para mostrar indicadores de carga mientras se realiza una solicitud.
 
 Esta aplicacion se ejecuta mediante el siguiente comando 
 ```javascript
