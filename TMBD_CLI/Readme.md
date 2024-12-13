@@ -2,7 +2,7 @@
 Este es un proyecto basico donde a través de una interfaz de linea de comandos buscamos datos sobre peliculas en una base de [TMBD](https://developer.themoviedb.org/docs/getting-started).
 Este proyecto contiene las siguientes herramientas y bibliotecas
 1. Node.js
-   -Plataforma necesaria para ejecutar javascript en el servidor y poder construir la aplicación CLI.
+   - Plataforma necesaria para ejecutar javascript en el servidor y poder construir la aplicación CLI.
 
 2. Axios
    - Para realizar solicitudes HTTP a la API de TMDB.
